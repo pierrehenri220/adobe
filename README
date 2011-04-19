@@ -1,0 +1,12 @@
+
+ADOBE SCRIPTS
+
+Most of those scripts are using the JavaScript API
+You have to download the *.jsx file and put it in the appropriate folder:
+Under Mac: /Applications/Adobe Photoshop CS{X}/Presets/Scripts/
+where {X} is the version of Photoshop
+
+The scripts were tested with PhotoShop CS2 and CS4 Mac
+
+Windows tests are welcome.
+Feel free to provide feedbacks
