@@ -168,7 +168,8 @@ function blurField() {
 	}
 }
 
-
+// The folling snippet code comes from Adobe Forums
+// http://forums.adobe.com/message/2449146
 function guideLine( position, type ) {
 	var desc27 = new ActionDescriptor();
 	var desc28 = new ActionDescriptor();
