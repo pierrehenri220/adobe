@@ -1,10 +1,10 @@
 /* 
- * Fileoverview: Guides Generator
- * Description: Script to easily generate guides in Photoshop
+ * @fileoverview: Guides Generator
+ * @description: Script to easily generate guides in Photoshop
  * Tested with CS2 and CS4 Mac
  * I haven't find an equivalent of onFocus
- * Version: 0.1
- * Author: getphuture ( github ), yakeson_chihiro ( twitter )
+ * @version: 0.1
+ * @author: getphuture ( github ), yakeson_chihiro ( twitter )
  *
  */
 
